@@ -52,7 +52,8 @@ Open to collaborating on data analytics, research, and innovative tech projects.
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/mohammad-abu-huzaifa-b98314279  
-Email: huzaifanafiz6@gmail.com
+Email: huzaifanafiz6@gmail.com  
+Portfolio: https://huzaifa1610.github.io/
 
 ---
 
