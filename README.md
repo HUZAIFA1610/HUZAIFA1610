@@ -7,6 +7,10 @@ Data Analyst • Problem Solver • Tech Enthusiast
   <a href="https://www.linkedin.com/in/mohammad-abu-huzaifa-b98314279">LinkedIn</a>
 </p>
 
+<p align="center">
+  <a href="https://huzaifa1610.github.io/">Portfolio</a>
+</p>
+
 ---
 
 ## About
